@@ -1,0 +1,3 @@
+/home/deom/Downloads/pcap/build/CMakeFiles/main.dir
+/home/deom/Downloads/pcap/build/CMakeFiles/edit_cache.dir
+/home/deom/Downloads/pcap/build/CMakeFiles/rebuild_cache.dir
